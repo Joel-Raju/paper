@@ -1,11 +1,13 @@
 {
-  "name": "whiteboard",
+  "name": "paper",
   "version": "0.1.0",
   "private": true,
-  "dependencies": {
-    "react": "^16.0.0",
-    "react-dom": "^16.0.0",
+  "devDependencies": {
     "react-scripts": "1.0.17"
+  },
+  "dependencies": {
+    "react": "^16.1.1",
+    "react-dom": "^16.1.1"
   },
   "scripts": {
     "start": "react-scripts start",
